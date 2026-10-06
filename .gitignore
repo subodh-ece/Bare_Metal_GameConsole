@@ -1,0 +1,22 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# Object files and compiled binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# IDE specific files (STM32CubeIDE / Eclipse / VSCode)
+.metadata/
+.settings/
+.cproject
+.project
+.vscode/
+
+# OS generated files
+Thumbs.db
